@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673179454505",
+    "project_id": "spacex-3d859",
+    "storage_bucket": "spacex-3d859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673179454505:android:07b915e2d5658fd55b2038",
+        "android_client_info": {
+          "package_name": "com.example.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673179454505-frocv6t922pklsiu32ai9jc4r6lc24tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmjFG1796EnXEQuD6IVvR02uLt20QCjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673179454505-frocv6t922pklsiu32ai9jc4r6lc24tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
